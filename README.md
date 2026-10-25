@@ -1,3 +1,1 @@
-# ThucHanhGit_NguyenMinhThaiBao
-Hello Git
-Chinh sua chua add
+Dong 1 goc
